@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&family=Poppins:wght@300&display=swap');
+
+body{
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+    color: yellow;
+}
+
+.nav-link:hover{
+    color: yellowgreen;
+}
+
+.img-card{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.card-precio{
+    display: inline-block;
+    padding: 3px 5px;
+    border-radius: 10px;
+    color: #ffff;
+    background-color: rgba(0, 0, 0, 0.881); 
+}
+
+.card-title{
+    font-weight: 600;
+}
