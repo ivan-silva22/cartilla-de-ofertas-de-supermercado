@@ -6,6 +6,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.logo{
+    width: 90px;
+    border-radius: 50%;
+}
+
 .nav-link{
     color: yellow;
 }
@@ -29,4 +34,16 @@ body{
 
 .card-title{
     font-weight: 600;
+}
+
+.card{
+    width: 200px;
+}
+
+.img-tarjeta{
+    width: 150px;
+    background-color: #ffff;
+    padding: 5px 8px;
+    border-radius: 10px;
+    text-align: center;
 }
